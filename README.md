@@ -40,3 +40,5 @@ You can click the Preview link to take a look at your changes.
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">  
     </div>
 </div>
+
+[![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=tweety27&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/tweety27/github-readme-stats)
