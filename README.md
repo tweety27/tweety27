@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Backend Engineering, Data Analysis
 - 🌱 I’m currently learning SQL, Crawling
 - 📫 How to reach me ktjdus00@gmail.com
+
+<br>
+
 <a href="https://www.notion.so/8c884686c5584b7998b00664f08461d6"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=notion.svg&icon_color=%23FFFFFF&title=Notion&edge_flat=false"/></a>
 <a href="https://velog.io/@tweety/posts"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2387DA74&title_bg=%2387DA74&icon=vimeo.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a>
 <br>
