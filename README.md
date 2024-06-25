@@ -6,6 +6,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%I%20am%20Seoyeon!&fontSize=90" />
 </div>
 
+<br>
+<br>
+
 - 👋 Hi, I’m Seoyeon Kim
 - 👀 I’m interested in Backend Engineering, Data Analysis
 - 🌱 I’m currently learning SQL, Crawling
