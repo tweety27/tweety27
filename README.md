@@ -7,12 +7,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 - 👋 Hi, I’m Seoyeon Kim
-- 👀 I’m interested in Backend, Data
+- 👀 I’m interested in Backend Engineering, Data Analysis
 - 🌱 I’m currently learning SQL, Crawling
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ktjdus00@gmail.com
 
 <div align= "center">
     <h3> Back Tech Stack </h3> 
