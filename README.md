@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ktjdus00@gmail.com
 
 <a href="https://www.notion.so/8c884686c5584b7998b00664f08461d6"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%23FFA2EF&icon=notion.svg&icon_color=%23F0F0F0&title=Notion&edge_flat=false"/></a>
-https://velog.io/@tweety/posts
-https://www.notion.so/8c884686c5584b7998b00664f08461d6
+<a href="https://velog.io/@tweety/posts"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%234DD28B&icon=vimeo.svg&icon_color=%23F0F0F0&title=velog&edge_flat=false"/></a>
 
 <br>
 <br>
