@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
     </div>
 </div>
 
-[![tweety27's GitHub stats](https://github-readme-stats.vercel.app/api?username=tweety27&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/tweety27/github-readme-stats)
+[![tweety27's GitHub stats](https://github-readme-stats.vercel.app/api?username=tweety27&include_all_commits=true&theme=nord&hide_border=true&count_private=true)]
