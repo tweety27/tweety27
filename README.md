@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=%I%20am%20Seoyeon!&fontSize=90" />
 </div>
 <div align= "center">
-    <h2> Back Tech Stack </h2> 
+    <h3> Back Tech Stack </h3> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
