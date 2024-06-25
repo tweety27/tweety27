@@ -12,6 +12,10 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ktjdus00@gmail.com
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <div align= "center">
     <h3> Back Tech Stack </h3> 
