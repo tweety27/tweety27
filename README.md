@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning SQL, Crawling
 - 📫 How to reach me ktjdus00@gmail.com
 
-<br>
-<br>
+
 <br>
 <br>
 <br>
