@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=tweety27&show_icons=true&theme=dracula" width = "49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=tweety77" width="42%" height="100%"/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=tweety77&theme=dracula" width="42%" height="100%"/>
 </div>
 <br>
 <div>
