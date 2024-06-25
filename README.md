@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning SQL, Crawling
 - 📫 How to reach me ktjdus00@gmail.com
 
+https://velog.io/@tweety/posts
+https://www.notion.so/8c884686c5584b7998b00664f08461d6
 
 <br>
 <br>
