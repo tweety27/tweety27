@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Seoyeon Kim
 - 👀 I’m interested in Backend Engineering, Data Analysis
-- 🌱 I’m currently learning SQL, Crawling
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ktjdus00@gmail.com
 
 <br>
